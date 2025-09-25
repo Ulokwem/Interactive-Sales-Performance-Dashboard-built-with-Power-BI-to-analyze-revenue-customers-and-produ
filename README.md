@@ -59,5 +59,4 @@ For any questions, collaborations, or feedback:
 - **Email:** okechiulokwem@gmail.com  
 - **GitHub:** [Ulokwem](https://github.com/Ulokwem)  
 
----![My Dashboard Image](https://github.com/user-attachments/assets/a3a83618-26a3-480c-850f-9ce745b56b36)
 
