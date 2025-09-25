@@ -1,3 +1,4 @@
+![My Dashboard Image](https://github.com/user-attachments/assets/eeb80bc7-fe70-49ca-b47f-6a47e5e53b4b)
 # 📊 Sales Performance Dashboard (Power BI)  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=white)  
@@ -58,4 +59,5 @@ For any questions, collaborations, or feedback:
 - **Email:** okechiulokwem@gmail.com  
 - **GitHub:** [Ulokwem](https://github.com/Ulokwem)  
 
----
+---![My Dashboard Image](https://github.com/user-attachments/assets/a3a83618-26a3-480c-850f-9ce745b56b36)
+
