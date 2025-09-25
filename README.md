@@ -46,7 +46,7 @@ It provides an interactive view of business performance, enabling decision-maker
 ---
 
 ## 🖼️ Project Preview  
-![Sales Dashboard Preview](dashboard-preview.jpg)  
+![Sales Dashboard Preview](My Dashboard Image.jpg)  
 
 ---
 
