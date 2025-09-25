@@ -56,7 +56,7 @@ This project presents an **interactive Sales Performance Dashboard** designed us
 ---
 
 ## 📷 Project Preview  
-![Sales Dashboard Preview](My%20Dashboard%20Image.jpeg)  
+![Sales Dashboard Preview](My%20Dashboard%20Image.jpeg) 
 
 ---
 
