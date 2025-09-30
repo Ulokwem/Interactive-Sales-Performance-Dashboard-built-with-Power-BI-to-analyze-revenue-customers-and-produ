@@ -46,8 +46,8 @@ It provides an interactive view of business performance, enabling decision-maker
 ---
 
 ## 🖼️ Project Preview  
----![My Dashboard Image](https://github.com/user-attachments/assets/a3a83618-26a3-480c-850f-9ce745b56b36)
-  
+
+![Sales das](https://github.com/user-attachments/assets/f6635464-5363-4a90-b1c4-241de2f33185)
 
 ---
 
