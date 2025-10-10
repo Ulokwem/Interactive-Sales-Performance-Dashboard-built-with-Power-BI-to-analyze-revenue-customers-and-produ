@@ -51,6 +51,104 @@ It provides an interactive view of business performance, enabling decision-maker
 
 ---
 
+
+📊 Insights
+
+📌 Overall Revenue Performance
+
+      Revenue: $105M
+      Growth: 🔼 16.1% increase vs previous year (PY) — strong overall performance.
+
+📌 Sales Quantity 
+
+      Total Quantity Sold: 6M units
+      Growth: 🔼 16.1% vs PY — sales volume growth aligns closely with revenue growth.
+      
+📌 Average Unit Price
+
+     Current Price: $17.6m
+
+     Change: 🔻 0.0% vs PY — pricing has remained flat, suggesting growth was volume-driven rather than price-driven.
+
+📌 Customer Insights
+
+     Total Customers: 9,191
+     Change: ⚪ 0.0% vs PY — customer base is stable, no net gain or loss.
+ 
+Top Customers:
+
+     Pooja (29%)
+ 
+     Smt (18%)
+
+     Smt. (13%)
+
+     Jyoti
+
+     Sunita
+
+📌 Top 5 Units by Quantity Sold
+
+     Cans: 2.4M
+
+     Ct: 1.3M
+
+     Bottles: 0.8M
+
+     Oz: 0.5M
+
+     Bags: 0.4M
+
+    ➤ Cans and Ct contribute the most to sales quantity.
+
+📌 Geographical Sales Distribution
+
+  Top performing countries:
+
+      Bangladesh
+
+      Inda
+
+      Lithuania
+
+      Poland
+
+      Germany
+
+    ➤ Strong presence in South Asia and parts of Europe.
+
+📌 Monthly Sales Trend
+
+     Sales show moderate fluctuations but generally steady performance across months — no major downturns or spikes.
+
+💡 Key Recommendations
+
+📍 Leverage High-Performing Regions
+
+     Strengthen operations, partnerships, and promotions in Bangladesh and India, where sales are strongest.
+
+     Explore opportunities to replicate regional success in other nearby markets.
+
+📍 Customer Base Growth
+
+    Since customer count is flat, launch new customer acquisition campaigns or loyalty programs to attract and retain buyers.
+
+📍 Diversify Product Focus
+
+    While Cans and Ct dominate, consider promoting other product categories (e.g., Bottles, Bags) to balance sales dependency.
+
+📍 Pricing Strategy
+
+    With no change in average unit price, explore dynamic pricing or premium offerings to increase revenue per unit.
+
+📍 Seasonal Sales Optimization
+
+    Identify months with dips in the sales trend and plan targeted promotions or campaigns during those periods.
+
+📍 Customer Segmentation
+
+    Analyze top customers like Pooja and Smt to understand their purchase behavior and personalize marketing strategies.
+
 ## 📬 Contact  
 For any questions, collaborations, or feedback:  
 
